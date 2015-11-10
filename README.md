@@ -13,6 +13,6 @@ Below is the list of the classifiers implemented:
 9. Boosting
 
 To run the code, use following script:
-RScript compareClassifier.R "<dataset-path> <header in dataset-T/F> <index of the class attribute in dataset (numeric value)>"
+RScript compareClassifier.R "(dataset-path) (header in dataset-T/F) (index of the class attribute in dataset (numeric value))"
 
 A shell script is also included to test this code.
